@@ -4,3 +4,7 @@ To create a new virtual environment in vscode;
     reboot the IDE terminal
     USE CMD TERMINAL NOT POWERSHELL, check that path starts with (.venv), if it doesnt, write 
     .\.venv\Scripts\activate
+
+
+IF ENCOUNTERING A CUDA MEMORY LACK ERROR
+    restart kernel 
